@@ -1,0 +1,7 @@
+C:\Users\arste\source\repos\trafficlights\trafficlights\bin\Debug\trafficlights.exe.config
+C:\Users\arste\source\repos\trafficlights\trafficlights\bin\Debug\trafficlights.exe
+C:\Users\arste\source\repos\trafficlights\trafficlights\bin\Debug\trafficlights.pdb
+C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.csproj.AssemblyReference.cache
+C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.csproj.CoreCompileInputs.cache
+C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.exe
+C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.pdb

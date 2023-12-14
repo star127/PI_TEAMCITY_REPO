@@ -5,3 +5,10 @@ C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.
 C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.csproj.CoreCompileInputs.cache
 C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.exe
 C:\Users\arste\source\repos\trafficlights\trafficlights\obj\Debug\trafficlights.pdb
+C:\Users\arste\Source\Repos\PI_TEAMCITY_REPO\trafficlights\trafficlights\obj\Debug\trafficlights.csproj.AssemblyReference.cache
+C:\Users\arste\Source\Repos\PI_TEAMCITY_REPO\trafficlights\trafficlights\obj\Debug\trafficlights.csproj.CoreCompileInputs.cache
+C:\Users\arste\Source\Repos\PI_TEAMCITY_REPO\trafficlights\trafficlights\obj\Debug\trafficlights.exe
+C:\Users\arste\Source\Repos\PI_TEAMCITY_REPO\trafficlights\trafficlights\obj\Debug\trafficlights.pdb
+C:\Users\arste\Source\Repos\PI_TEAMCITY_REPO\trafficlights\trafficlights\bin\Debug\trafficlights.exe.config
+C:\Users\arste\Source\Repos\PI_TEAMCITY_REPO\trafficlights\trafficlights\bin\Debug\trafficlights.exe
+C:\Users\arste\Source\Repos\PI_TEAMCITY_REPO\trafficlights\trafficlights\bin\Debug\trafficlights.pdb

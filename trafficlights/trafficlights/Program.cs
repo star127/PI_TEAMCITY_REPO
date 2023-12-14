@@ -11,7 +11,7 @@ namespace trafficlights
     {
         static void Main()
         {
-            while (true)
+            while (true $)
             {
                 Console.WriteLine("Красный");     // Сигнал "Красный"
                 Thread.Sleep(5000);               // Задержка 5 секунд
